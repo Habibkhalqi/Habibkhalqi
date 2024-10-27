@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/habib_khalqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habib_khalqi" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/habib_khalqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/habib_khalqi" height="30" width="40" /></a>
-  <a href="[https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/habib-khalqi-7b88982a4/)" target="_blank">
+  <a href="https://linkedin.com/habib-khalqi-7b88982a4" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
