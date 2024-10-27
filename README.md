@@ -4,7 +4,7 @@
 <img align="buttom"alt="coding" width="350"src="">
 - 🌱 I’m currently learning **Web Development and CSharp**
 
-- 📫 How to reach me **habibullahbalti33@gmail.com**
+- 📫 How to reach me **hkbalti44@gmail.com**
 
 - ⚡ Fun fact **I think I am Good Programmer🤷‍♀️😃**
 
@@ -12,6 +12,10 @@
 <p align="left">
 <a href="https://twitter.com/habib_khalqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habib_khalqi" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/habib_khalqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/habib_khalqi" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
