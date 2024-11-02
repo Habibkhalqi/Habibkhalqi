@@ -60,15 +60,6 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![PyCharm](https://img.shields.io/badge/PyCharm-FCC624?style=for-the-badge&logo=pycharm&logoColor=black) 
     ![Dev C++](https://img.shields.io/badge/Dev%20C++-0078d7.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-<br>
-
-- **Extras**:
-
-    ![SEO](https://img.shields.io/badge/SEO-%23054020?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
-    ![Bloging](https://img.shields.io/badge/Blogging-%23000000.svg?style=for-the-badge&logo=hashnode&logoColor=white)   
-
-
 </p>
 <br>
 
@@ -78,13 +69,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habibkhalqi&show_icons=true&locale=en" alt="habibkhalqi" /></p>
 
-<style>
-.animated {
-    animation: fadeIn 2s ease-in;
-}
-
-@keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-}
-</style>
