@@ -63,8 +63,6 @@
 </p>
 <br>
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibkhalqi&show_icons=true&locale=en&layout=compact" alt="habibkhalqi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habibkhalqi&show_icons=true&locale=en" alt="habibkhalqi" /></p>
