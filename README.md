@@ -62,7 +62,8 @@
     ![Dev C++](https://img.shields.io/badge/Dev%20C++-0078d7.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 </p>
 <br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibkhalqi&show_icons=true&locale=en&layout=compact" alt="habibkhalqi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habibkhalqi&show_icons=true&locale=en" alt="habibkhalqi" /></p>
