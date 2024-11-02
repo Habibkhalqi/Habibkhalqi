@@ -6,9 +6,7 @@
 <h3 align="center" class="animated">A passionate Programmer From Pakistan</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
-
-
+<br>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dakyo327cb7k0lybcah797gs0kiwjkhk6s55fjv5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <img align="bottom" alt="coding" width="350" src="">
 - 🌱 I’m currently learning **.NET**
@@ -33,10 +31,46 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
+<p align="center">
+
+- **Languages I Work on**:
+
+
+    ![C#](https://img.shields.io/badge/C%20Sharp-%239810e0.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+    ![C++](https://img.shields.io/badge/%20C++-0078d7.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black) 
+    ![HTML](https://img.shields.io/badge/HTML-%23e07510.svg?style=for-the-badge&logo=web&logoColor=white)
+    ![CSS](https://img.shields.io/badge/CSS-0078d7.svg?style=for-the-badge&logo=css&logoColor=white)
+    
+	
+   
+	
+<br>
+
+- **Softwares and Tools**:
+
+    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23F05033.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![PyCharm](https://img.shields.io/badge/PyCharm-FCC624?style=for-the-badge&logo=pycharm&logoColor=black) 
+    ![Dev C++](https://img.shields.io/badge/Dev%20C++-0078d7.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+<br>
+
+- **Extras**:
+
+    ![SEO](https://img.shields.io/badge/SEO-%23054020?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
+    ![Bloging](https://img.shields.io/badge/Blogging-%23000000.svg?style=for-the-badge&logo=hashnode&logoColor=white)   
+
+
+</p>
+<br>
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 
