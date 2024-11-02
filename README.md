@@ -26,6 +26,7 @@
 <a href="https://instagram.com/habib_khalqi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="habib_khalqi" height="30" width="40" />
 </a>
+	&nbsp
 <a href="https://www.linkedin.com/in/habib-khalqi-7b88982a4/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="30" width="40" />
 </a>
