@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habibullah</h1>
-<!-- <h3 align="center" class="animated">A passionate Programmer From Pakistan</h3> -->
+<h3 align="center" class="animated">A passionate Programmer From Pakistan</h3>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+Profile.+.+.;I+am+a+Software+Engineer;Programmer+%2F+Programming+Instructor;Active+Learner.+.+.+;Welcome+to+my+Profile.+.+." alt="Typing SVG" /></a>
 </p>
