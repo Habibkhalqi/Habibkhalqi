@@ -9,7 +9,6 @@
 <img align="bottom" alt="coding" width="350" src="">
 - 🌱 I’m currently learning **.NET** <br>
 - 📫 How to reach me **hkbalti44@gmail.com**
-
 - ⚡ Fun fact **I think I am a Good Programmer 🤷‍♀️😃**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
