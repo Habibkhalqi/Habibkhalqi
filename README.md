@@ -7,7 +7,7 @@
 <br>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dakyo327cb7k0lybcah797gs0kiwjkhk6s55fjv5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <img align="bottom" alt="coding" width="350" src="">
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **.NET** <br>
 - 📫 How to reach me **hkbalti44@gmail.com**
 
 - ⚡ Fun fact **I think I am a Good Programmer 🤷‍♀️😃**
