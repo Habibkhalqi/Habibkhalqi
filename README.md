@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dakyo327cb7k0lybcah797gs0kiwjkhk6s55fjv5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <img align="bottom" alt="coding" width="350" src="">
 - 🌱 I’m currently learning **.NET** <br>
-- 📫 How to reach me **hkbalti44@gmail.com**
+- 📫 How to reach me **hkbalti44@gmail.com** <br>
 - ⚡ Fun fact **I think I am a Good Programmer 🤷‍♀️😃**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
