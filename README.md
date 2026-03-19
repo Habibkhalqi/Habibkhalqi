@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Habibullah&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=.NET%20Developer%20%7C%20Data%20Analyst%20%7C%20Pakistan%20🇵🇰&descAlignY=55&descSize=18" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Welcome+to+my+GitHub+Profile!;💻+.NET+Developer+%26+C%23+Enthusiast;📊+Data+Analyst+%7C+Python+Lover;🚀+Always+Learning%2C+Always+Building;🌱+Growing+Better+Every+Single+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Welcome+to+my+GitHub+Profile!;💻+.NET+Developer+%26+C%23+Enthusiast;📊+Data+Analyst+%7C+Python+Lover;🚀+Always+Learning%2C+Always+Building;🌱+Growing+Better+Every+Single+Day"  />
 
 <br/>
 
