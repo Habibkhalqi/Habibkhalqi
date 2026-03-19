@@ -102,14 +102,6 @@ Email    : hkbalti44@gmail.com
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibkhalqi&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="55%" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=habibkhalqi&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
-</div>
-
 ---
 
 ## 📈 Contribution Graph
