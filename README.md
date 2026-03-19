@@ -108,7 +108,7 @@ Email    : hkbalti44@gmail.com
 ## 🏆 GitHub Trophies
 
 <div align="center">
- <img src="https://github-profile-trophy-winning.vercel.app/?username=habibkhalqi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=habibkhalqi&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
 </div>
 
 ---
