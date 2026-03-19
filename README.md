@@ -1,88 +1,137 @@
-<h1 align="center">Hi 👋, I'm Habibullah</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Programmer+%7C+.NET+Developer;Data+Analyst;Always+Learning+New+Things" />
-</p>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Habibullah&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=.NET%20Developer%20%7C%20Data%20Analyst%20%7C%20Pakistan%20🇵🇰&descAlignY=55&descSize=18" />
 
-<h3 align="center">💻 A Passionate Programmer from Pakistan 🇵🇰</h3>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Welcome+to+my+GitHub+Profile!;💻+.NET+Developer+%26+C%23+Enthusiast;📊+Data+Analyst+%7C+Python+Lover;🚀+Always+Learning%2C+Always+Building;🌱+Growing+Better+Every+Single+Day" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+<br/>
 
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- Profile Views + Followers -->
+<img src="https://komarev.com/ghpvc/?username=habibkhalqi&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/habibkhalqi?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
 
-### 👨‍💻 About Me
+</div>
 
-- 🌱 I’m currently learning **.NET Development**
-- 💡 Interested in **Programming & Data Analysis**
-- 📫 Reach me at **hkbalti44@gmail.com**
-- ⚡ Fun fact: **I believe I’m becoming a better programmer every day 🚀**
+---
 
-<br>
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding GIF" width="360" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```yaml
+Name     : Habibullah
+Location : Pakistan 🇵🇰
+Focus    : .NET Development & Data Analysis
+Learning : ASP.NET Core, EF Core, REST APIs
+Passion  : Clean Code & Problem Solving
+Email    : hkbalti44@gmail.com
+```
+
+- 🔭 Currently building projects with **.NET & C#**
+- 🌱 Deepening skills in **ASP.NET Core & Data Analysis**
+- 💡 Interested in **Software Architecture & Clean Code**
+- 📊 Love turning raw data into **meaningful insights**
+- ⚡ Fun fact: *I write bugs just to have the joy of fixing them* 😄
+
+<br clear="right"/>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://twitter.com/habib_khalqi" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/habib_khalqi" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/habib-khalqi-7b88982a4/" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/habib-khalqi-7b88982a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/habib_khalqi" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/habib_khalqi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:hkbalti44@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 🛠️ Skills
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
 
-<p align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-![C#](https://img.shields.io/badge/C%20Sharp-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🚀 Frameworks & Libraries
 
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 🧰 Tools & IDEs
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ---
 
-### 🧰 Tools & Software
+## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
-![Dev C++](https://img.shields.io/badge/Dev%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=habibkhalqi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibkhalqi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="38%" />
 
-</p>
+<br/><br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=habibkhalqi&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="55%" />
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=habibkhalqi&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibkhalqi&layout=compact&theme=tokyonight" />
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-✨ <b>"Keep Learning, Keep Building, Keep Growing"</b> ✨
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=habibkhalqi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibkhalqi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Quote I Live By
+
+> *"Keep Learning, Keep Building, Keep Growing"* 🚀
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
