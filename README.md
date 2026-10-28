@@ -1,15 +1,21 @@
-
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Habibullah&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=.NET%20Developer%20%7C%20Data%20Analyst%20%7C%20Pakistan%20🇵🇰&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Habibullah&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=.NET%20Developer%20%7C%20Data%20Analyst%20%7C%20Cloud%20Learner%20%E2%98%81%EF%B8%8F&descAlignY=60&descSize=18" />
 
-<br/>
+<!-- Typing Animation -->
+<a href="https://github.com/habibkhalqi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Habibullah+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Building+projects+with+.NET+%26+C%23;Turning+raw+data+into+meaningful+insights+%F0%9F%93%8A;Learning+Amazon+Web+Services+(AWS)+%E2%98%81%EF%B8%8F;Keep+Learning%2C+Keep+Building%2C+Keep+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=habibkhalqi&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<br/><br/>
+
+<!-- Profile Views + Followers + Stars -->
+<img src="https://komarev.com/ghpvc/?username=habibkhalqi&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/habibkhalqi?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+<img src="https://img.shields.io/github/followers/habibkhalqi?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/habibkhalqi?label=Stars&style=for-the-badge&color=f0a500&logo=github" alt="Stars" />
 
 </div>
 
@@ -22,19 +28,50 @@
 ```yaml
 Name     : Habibullah
 Location : Pakistan 🇵🇰
-Focus    : .NET Development & Data Analysis
-Learning : ASP.NET Core, EF Core, REST APIs
+Focus    : .NET Development, Data Analysis & Cloud
+Learning : ASP.NET Core, EF Core, REST APIs, Amazon Web Services (AWS)
 Passion  : Clean Code & Problem Solving
 Email    : hkbalti44@gmail.com
 ```
 
 - 🔭 Currently building projects with **.NET & C#**
+- ☁️ Now exploring **Amazon Web Services (AWS)** — cloud computing, hosting & deployment
 - 🌱 Deepening skills in **ASP.NET Core & Data Analysis**
 - 💡 Interested in **Software Architecture & Clean Code**
 - 📊 Love turning raw data into **meaningful insights**
 - ⚡ Fun fact: *I write bugs just to have the joy of fixing them* 😄
 
 <br clear="right"/>
+
+---
+
+## 🎯 Currently Learning
+
+<div align="center">
+
+| 🚀 Topic | 📈 Progress |
+|:--|:--|
+| **ASP.NET Core & EF Core** | ![](https://geps.dev/progress/70?dangerColor=0e75b6&warningColor=0e75b6&successColor=0e75b6) |
+| **REST APIs** | ![](https://geps.dev/progress/65?dangerColor=0e75b6&warningColor=0e75b6&successColor=0e75b6) |
+| **Data Analysis (Pandas / NumPy)** | ![](https://geps.dev/progress/60?dangerColor=0e75b6&warningColor=0e75b6&successColor=0e75b6) |
+| **☁️ Amazon Web Services (AWS)** | ![](https://geps.dev/progress/30?dangerColor=FF9900&warningColor=FF9900&successColor=FF9900) |
+
+</div>
+
+<details>
+<summary><b>☁️ My AWS Learning Path (click to expand)</b></summary>
+<br/>
+
+- [x] Cloud computing basics
+- [ ] **EC2** — virtual servers
+- [ ] **S3** — storage
+- [ ] **IAM** — users, roles & permissions
+- [ ] **RDS** — managed databases (SQL Server)
+- [ ] **Lambda** — serverless functions
+- [ ] Deploying an **ASP.NET Core app on AWS**
+- [ ] 🎓 Target: **AWS Certified Cloud Practitioner**
+
+</details>
 
 ---
 
@@ -78,6 +115,15 @@ Email    : hkbalti44@gmail.com
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
+### ☁️ Cloud (Learning)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+</p>
+
 ### 🧰 Tools & IDEs
 
 <p align="left">
@@ -103,6 +149,15 @@ Email    : hkbalti44@gmail.com
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibkhalqi&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="55%" />
 
 </div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=habibkhalqi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+</div>
+
 ---
 
 ## 📈 Contribution Graph
@@ -113,6 +168,43 @@ Email    : hkbalti44@gmail.com
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/habibkhalqi/habibkhalqi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 💻 Code Snippet
+
+```csharp
+public class Habibullah : IDeveloper
+{
+    public string[] Skills => new[] { "C#", ".NET", "ASP.NET Core", "Python", "SQL" };
+    public string   Cloud  => "AWS (learning ☁️)";
+    public string   Motto  => "Keep Learning, Keep Building, Keep Growing";
+
+    public void Today()
+    {
+        while (true)
+        {
+            Learn();
+            Build();
+            FixBugs();   // the fun part 😄
+        }
+    }
+}
+```
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to **.NET projects**, **data analysis work**, and **cloud learning partners**. Feel free to reach out at **hkbalti44@gmail.com** 📬
+
+---
+
 <div align="center">
 
 ### 💬 Quote I Live By
@@ -120,6 +212,10 @@ Email    : hkbalti44@gmail.com
 > *"Keep Learning, Keep Building, Keep Growing"* 🚀
 
 <br/>
+
+<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20C%23-68217A?style=for-the-badge" />
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
